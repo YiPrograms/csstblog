@@ -1,0 +1,7 @@
+baseURL = "https://csstblog.yikuo.dev"
+languageCode = "en-us"
+title = "My Old Hugo Site"
+theme = "ananke"
+
+[markup.goldmark.renderer]
+unsafe= true
